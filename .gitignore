@@ -1,0 +1,10 @@
+# Ignore image folders
+rock/
+paper/
+scissors/
+my_images/
+
+# Ignore dataset CSV files
+train.csv
+devtest.csv
+test.csv
